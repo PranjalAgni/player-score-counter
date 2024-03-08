@@ -1,3 +1,7 @@
+# So you want to learn Svelte
+
+Just focus and follow this [official guide](https://learn.svelte.dev/tutorial/welcome-to-svelte) write in your browser 🚀 ❇️ 🌈 !!!
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
