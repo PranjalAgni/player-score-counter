@@ -2,6 +2,7 @@
 	import PlayerScore from "../components/PlayerScore.svelte";
 	let player1Score = 0;
 	let player2Score = 0;
+        console.log("Svelte is so cool");
 
 	function reset() {
 		player1Score = 0;
